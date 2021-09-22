@@ -1,0 +1,10 @@
+C:\Users\alfre\Documents\Visual Studio 2012\Projects\Examen319Pregunta5\Examen319Pregunta5\bin\Debug\Examen319Pregunta5.exe.config
+C:\Users\alfre\Documents\Visual Studio 2012\Projects\Examen319Pregunta5\Examen319Pregunta5\bin\Debug\Examen319Pregunta5.XML
+C:\Users\alfre\Documents\Visual Studio 2012\Projects\Examen319Pregunta5\Examen319Pregunta5\bin\Debug\Examen319Pregunta5.exe
+C:\Users\alfre\Documents\Visual Studio 2012\Projects\Examen319Pregunta5\Examen319Pregunta5\bin\Debug\Examen319Pregunta5.pdb
+C:\Users\alfre\Documents\Visual Studio 2012\Projects\Examen319Pregunta5\Examen319Pregunta5\bin\Debug\FSharp.Core.dll
+C:\Users\alfre\Documents\Visual Studio 2012\Projects\Examen319Pregunta5\Examen319Pregunta5\bin\Debug\FSharp.Core.xml
+C:\Users\alfre\Documents\Visual Studio 2012\Projects\Examen319Pregunta5\Examen319Pregunta5\bin\Debug\es\FSharp.Core.resources.dll
+C:\Users\alfre\Documents\Visual Studio 2012\Projects\Examen319Pregunta5\Examen319Pregunta5\obj\Debug\Examen319Pregunta5.fsprojResolveAssemblyReference.cache
+C:\Users\alfre\Documents\Visual Studio 2012\Projects\Examen319Pregunta5\Examen319Pregunta5\obj\Debug\Examen319Pregunta5.exe
+C:\Users\alfre\Documents\Visual Studio 2012\Projects\Examen319Pregunta5\Examen319Pregunta5\obj\Debug\Examen319Pregunta5.pdb

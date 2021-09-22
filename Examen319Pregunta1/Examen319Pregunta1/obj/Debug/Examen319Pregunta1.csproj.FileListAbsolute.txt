@@ -1,0 +1,9 @@
+c:\users\alfre\documents\visual studio 2012\Projects\Examen319Pregunta1\Examen319Pregunta1\bin\Debug\Examen319Pregunta1.exe.config
+c:\users\alfre\documents\visual studio 2012\Projects\Examen319Pregunta1\Examen319Pregunta1\bin\Debug\Examen319Pregunta1.exe
+c:\users\alfre\documents\visual studio 2012\Projects\Examen319Pregunta1\Examen319Pregunta1\bin\Debug\Examen319Pregunta1.pdb
+c:\users\alfre\documents\visual studio 2012\Projects\Examen319Pregunta1\Examen319Pregunta1\obj\Debug\Examen319Pregunta1.csprojResolveAssemblyReference.cache
+c:\users\alfre\documents\visual studio 2012\Projects\Examen319Pregunta1\Examen319Pregunta1\obj\Debug\Examen319Pregunta1.Form1.resources
+c:\users\alfre\documents\visual studio 2012\Projects\Examen319Pregunta1\Examen319Pregunta1\obj\Debug\Examen319Pregunta1.Properties.Resources.resources
+c:\users\alfre\documents\visual studio 2012\Projects\Examen319Pregunta1\Examen319Pregunta1\obj\Debug\Examen319Pregunta1.csproj.GenerateResource.Cache
+c:\users\alfre\documents\visual studio 2012\Projects\Examen319Pregunta1\Examen319Pregunta1\obj\Debug\Examen319Pregunta1.exe
+c:\users\alfre\documents\visual studio 2012\Projects\Examen319Pregunta1\Examen319Pregunta1\obj\Debug\Examen319Pregunta1.pdb
